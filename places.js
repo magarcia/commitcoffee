@@ -2234,6 +2234,20 @@ var places = [
 			"Provision": "Coffee, Tea, Lunch, Beer",
 		},
 		"link": {"homepage":"http://www.banffcentre.ca/dining/maclab-bistro.asp"}
-	}
+	},
+    {
+        "city": "Barcelona",
+        "country": "Spain",
+        "name": "La Clandestina",
+        "address": "Baixada de Viladecols, 2",
+        "coordinates": ["41.393996", "2.165491"],
+        "description": {
+            "Internet": "Free wifi",
+            "Power Outlets": "Some inside",
+            "Seating": "Good size tables, comfy chairs, bar-style seating",
+            "Service": "Very friendly",
+            "Provision": "Over 20 types of tea are served, along with the usual coffee and stronger drinks",
+        }
+    }
 ]
 
