@@ -2297,6 +2297,24 @@ var places = [
         "link": {
             "homepage":"http://www.carmelitas.biz/"
         }
+    },
+    {
+        "city": "Barcelona",
+        "country": "Spain",
+        "name": "Laie",
+        "address": "Pau Claris 85 (between Gran Via y Casp)",
+        "coordinates": ["37.399875", "-2.364469"],
+        "description": {
+            "Internet": "FREE WIFI - ask for the key at the bar",
+            "Power Outlets": "Some inside",
+            "Seating": "Bookstore café",
+            "Service": "Friendly",
+            "Provision": "Coffee, Beer and Sandwiches",
+            "Hours": "Mon - Fri 9am - 9.30pm; Sat 10am - 9.30pm"
+        },
+        "link": {
+            "homepage":"http://www.laie.es/"
+        }
     }
 ]
 
