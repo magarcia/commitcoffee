@@ -2352,6 +2352,27 @@ var places = [
             "homepage":"http://www.federalcafe.es/"
             "facebook": "https://www.facebook.com/pages/federal-cafe-barcelona/134531549899409"
         }
+    },
+    {
+        "city": "Barcelona",
+        "country": "Spain",
+        "name": "Babèlia Books and Coffee",
+        "address": "Carrer de Villarroel, 271",
+        "coordinates": ["41.39281", "2.14670"],
+        "description": {
+            "Internet": "Free WIFI",
+            "Power Outlets": "Some inside",
+            "Seating": "No big tables but very comfortable",
+            "Service": "Very friendly",
+            "Provision": "Part coffee shop, part secondhand book shop",
+            "Hours": "9:00 am - 9:00 pm"
+        },
+        "link": {
+            "homepage":"http://www.babeliabcn.com/",
+            "facebook": "https://www.facebook.com/pages/Babelia-Barcelona/394872200528214",
+            "twitter": "https://twitter.com/babeliabcn",
+            "foursquare": "https://es.foursquare.com/babeliabcn"
+        }
     }
 ]
 
