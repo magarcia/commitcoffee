@@ -2246,7 +2246,7 @@ var places = [
             "Power Outlets": "Some inside",
             "Seating": "Good size tables, comfy chairs, bar-style seating",
             "Service": "Very friendly",
-            "Provision": "Over 20 types of tea are served, along with the usual coffee and stronger drinks",
+            "Provision": "Over 20 types of tea are served, along with the usual coffee and stronger drinks"
         }
     },
     {
@@ -2260,7 +2260,7 @@ var places = [
             "Power Outlets": "Some inside",
             "Seating": "Good size tables, comfy chairs, bar-style seating",
             "Service": "Very friendly",
-            "Provision": "Coffee with an assortment of tapas",
+            "Provision": "Coffee with an assortment of tapas"
         }
     }
 ]
