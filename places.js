@@ -2248,6 +2248,20 @@ var places = [
             "Service": "Very friendly",
             "Provision": "Over 20 types of tea are served, along with the usual coffee and stronger drinks",
         }
+    },
+    {
+        "city": "Barcelona",
+        "country": "Spain",
+        "name": "Café Milans",
+        "address": "Milans, 7",
+        "coordinates": ["41.380657", "2.179155"],
+        "description": {
+            "Internet": "Free WIFI for customers",
+            "Power Outlets": "Some inside",
+            "Seating": "Good size tables, comfy chairs, bar-style seating",
+            "Service": "Very friendly",
+            "Provision": "Coffee with an assortment of tapas",
+        }
     }
 ]
 
