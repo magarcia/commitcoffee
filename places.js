@@ -2315,6 +2315,24 @@ var places = [
         "link": {
             "homepage":"http://www.laie.es/"
         }
+    },
+    {
+        "city": "Barcelona",
+        "country": "Spain",
+        "name": "Cafè Camèlia",
+        "address": "C/ Verdi, 79",
+        "coordinates": ["37.399875", "-2.364469"],
+        "description": {
+            "Internet": "Free WIFI",
+            "Power Outlets": "The only weak spot",
+            "Seating": "Bookcoffee-style",
+            "Service": "Friendly",
+            "Provision": "The lunch menu consistently includes vegan and vegetarian options",
+            "Hours": "Closed until tomorrow 9:30 am - 9:00 pm"
+        },
+        "link": {
+            "facebook": "https://www.facebook.com/pages/Caf%C3%A8-Cam%C3%A8lia/198100180227662"
+        }
     }
 ]
 
