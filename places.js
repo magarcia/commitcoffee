@@ -2333,6 +2333,25 @@ var places = [
         "link": {
             "facebook": "https://www.facebook.com/pages/Caf%C3%A8-Cam%C3%A8lia/198100180227662"
         }
+    },
+    {
+        "city": "Barcelona",
+        "country": "Spain",
+        "name": "Federal Café",
+        "address": "C/ Parlament, 39",
+        "coordinates": ["37.399875", "-2.364469"],
+        "description": {
+            "Internet": "Free WIFI",
+            "Power Outlets": "Some inside",
+            "Seating": "Big shared tables and some small tables for two",
+            "Service": "Friendly",
+            "Provision": "Portland-style” brunch: egg scrambles, arugula, smoked salmon, quinoa, wheat toast, etc",
+            "Hours": "monday – thursday 08:00 – 23:00; friday 08:00 – 01:00; saturday 09:00 – 01:00; sunday 09:00 – 17:30"
+        },
+        "link": {
+            "homepage":"http://www.federalcafe.es/"
+            "facebook": "https://www.facebook.com/pages/federal-cafe-barcelona/134531549899409"
+        }
     }
 ]
 
