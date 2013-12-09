@@ -2262,6 +2262,23 @@ var places = [
             "Service": "Very friendly",
             "Provision": "Coffee with an assortment of tapas"
         }
+    },
+    {
+        "city": "Barcelona",
+        "country": "Spain",
+        "name": "Candela",
+        "address": "Hospital, 48",
+        "coordinates": ["41.384698", "2.16686"],
+        "description": {
+            "Internet": "Free wifi",
+            "Power Outlets": "A handful",
+            "Seating": "Good size tables, comfy chairs, bar-style seating",
+            "Service": "Very friendly",
+            "Hours": "Mon - Sat: 9am - 2.30pm; Closed Sun"
+        },
+        "link": {
+            "homepage":"http://www.candelaraval.com/"
+        }
     }
 ]
 
