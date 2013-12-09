@@ -2349,7 +2349,7 @@ var places = [
             "Hours": "monday – thursday 08:00 – 23:00; friday 08:00 – 01:00; saturday 09:00 – 01:00; sunday 09:00 – 17:30"
         },
         "link": {
-            "homepage":"http://www.federalcafe.es/"
+            "homepage":"http://www.federalcafe.es/",
             "facebook": "https://www.facebook.com/pages/federal-cafe-barcelona/134531549899409"
         }
     },
