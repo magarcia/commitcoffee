@@ -2279,6 +2279,24 @@ var places = [
         "link": {
             "homepage":"http://www.candelaraval.com/"
         }
+    },
+    {
+        "city": "Barcelona",
+        "country": "Spain",
+        "name": "Carmelitas",
+        "address": "Carme, 42",
+        "coordinates": ["41.39377", "2.165792"],
+        "description": {
+            "Internet": "Free WIFI - you will need to ask the staff for the key.",
+            "Power Outlets": "The only weak spot",
+            "Seating": "Bar-style seating",
+            "Service": "Very friendly",
+            "Provision": "The food is, unfortunately, rather unremarkable",
+            "Hours": " Daily: 1.30pm - 12am; Kitchen: 1.30pm - 4pm and 9pm - 12am"
+        },
+        "link": {
+            "homepage":"http://www.carmelitas.biz/"
+        }
     }
 ]
 
